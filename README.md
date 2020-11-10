@@ -1,5 +1,8 @@
-# todolist-python
-Python project with SQLAlchemy
+# Python TODO list created with SQLAlchemy
 
-To do list written in Python to help organize tasks, we can add task with deadline, see today's tasks, week's tasks, 
-delete them - everything we need to organize our time.
+
+## Functionality:
+ - help organize tasks, 
+ - add task with deadline, 
+ - see today's tasks, week's tasks, all tasks, missed tasks,
+ - delete tasks
